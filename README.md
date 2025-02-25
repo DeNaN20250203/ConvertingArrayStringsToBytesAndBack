@@ -104,7 +104,7 @@ public static string[] ByteArrayToStringArray(byte[] _byteArray)
 `{ "File", "Storage", "Example" }`
 
 ## Полный пример программы
-Вот полный код программы, который демонстрирует весь процесс в файле `Programm.cs`...
+Вот полный код программы, который демонстрирует весь процесс в файле [`Programm.cs`][21]...
 
 
 ## Заключение
@@ -117,3 +117,5 @@ public static string[] ByteArrayToStringArray(byte[] _byteArray)
 
 <a href="https://github.com/DeNaN20250203?tab=repositories" target="_blank"><img src="GitHubDeJra.png" alt="Image" width="300" /></a>  
 [Верх](#anchor)
+
+[21]: https://github.com/DeNaN20250203/ConvertingArrayStringsToBytesAndBack/blob/main/ConvertingArrayStringsToBytesAndBack%20001/Program.cs "Program.cs"
